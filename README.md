@@ -1,4 +1,7 @@
 I have experience in Java, Javascript, CSS, some HTML, some python.
 
-I made a short 2d game in Gamemaker studio but i cant upload it onto newgrounds bc its not html5 and i dont want to pay for that :(
-Im working on web development stuff right now. Basically learning to code in scripting languages and eventually make a website and hopefully a website business.
+I made a short 2d game in Gamemaker studio 
+It has a few bugs sorry
+https://gx.games/games/hmg0tx/2001-spaceship/tracks/193361a8-bcc2-4e89-b95d-40e97a322f8b
+
+I'm in college trying to figure out something in AI or websites.
